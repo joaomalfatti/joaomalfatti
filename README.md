@@ -1,9 +1,12 @@
-
-## Olá, eu sou João Elias!
+<div align="center">
+  <h5> Olá, eu sou João Elias, formado em Analíse e Desenvolvimento de sistemas - UNIRON, finalizando uma pós-graduação em Redes Estruturadas em Computadores - FOCUS. 
+Estou retornando a programar, fazia muito tempo que não programava, apenas fazia projetos de faculdade. Hoje em dia estou comçenado a fazer uns projetos e me realocar no mercado de trabalho.</h5>
+  <br>
+</div>
 <div align="center">
   <a href="https://github.com/joaomalfatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
  <br>
