@@ -1,12 +1,14 @@
 <div align="center">
-  <h5> Olá, eu sou João Elias, formado em Analíse e Desenvolvimento de sistemas - UNIRON, finalizando uma pós-graduação em Redes Estruturadas em Computadores - FOCUS. 
-Estou retornando a programar, fazia muito tempo que não programava, apenas fazia projetos de faculdade. Hoje em dia estou comçenado a fazer uns projetos e me realocar no mercado de trabalho.</h5>
-  <br>
+  <h6> Olá, eu sou João Elias, formado em Analíse e Desenvolvimento de sistemas - UNIRON, finalizando uma pós-graduação em Redes Estruturadas em Computadores - FOCUS. 
+Estou retornando a programar, fazia muito tempo que não programava, apenas fazia projetos de faculdade. Hoje em dia estou comçenado a fazer uns projetos e me realocar no mercado de trabalho.</h6>
 </div>
+
+<br>
+
 <div align="center">
-  <a href="https://github.com/joaomalfatti">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <br>
