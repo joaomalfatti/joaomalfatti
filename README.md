@@ -18,7 +18,7 @@
   <img align="center" alt="joao-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" alt="joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="joao-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="joao-server" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"/>
+  <img align="center" alt="joao-server" height="40" width="40" src="https://alternative.me/media/256/microsoft-sql-server-icon-q9cwgo05m07x4sfl-c.png"/>
   <img align="center" alt="joao-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img  align="center" alt="joao-type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="joao-javasc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
