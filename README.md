@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/joaomalfatti">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
  <hr/>
@@ -21,8 +21,9 @@
   <img align="center" alt="joao-server" height="40" width="40" src="https://alternative.me/media/256/microsoft-sql-server-icon-q9cwgo05m07x4sfl-c.png"/>
   <img align="center" alt="joao-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img  align="center" alt="joao-type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="joao-javasc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="joao-javasc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="joao-javasc" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor.svg" />
+  <img align="center" alt="joao-css" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor.svg" />
+  <img align="center" alt="joao-html" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor.svg" />
   </div>
   
 <hr/> 
