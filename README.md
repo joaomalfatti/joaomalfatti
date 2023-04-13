@@ -64,11 +64,6 @@
  <hr/>
   
 <h3>
-  GitHub Stats 	🚩
-</h3>
-<div style="display: flex; justify-content: center; align-items: center;" align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=github_dark" align="center" />
-</div>
   
 <hr/>
   
