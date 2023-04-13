@@ -1,6 +1,6 @@
 <div align="justify">
   <h3> Hi ✌️, I'm João Elias.</h3>
-  <h6> Graduated in Systems Analysis and Development - UNIRON, finishing a postgraduate course in Structured Computer Networks - FOCUS. I'm returning to programming, it's been a long time since I programmed, I just did college projects. Nowadays I'm starting to do some projects and relocate myself in the job market..</h6>
+  <h6> Graduado em Análise e Desenvolvimento de Sistemas pela UNIRON/RO, tenho três pós-graduções sendo elas: Cybersegurança e Gestão de Riscos, Redes Estruturadas de Computadores e Segurança da Informação. Sou professor substituto no Instituto Federal de Rondônia - IFRO, leciono as aulas de Redes de Computadores I e II, Segurança da Informação e Interação Humano Computador.</h6>
 </div>
 
 <hr/>
