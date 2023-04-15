@@ -35,8 +35,8 @@
   <h6> 
     <p>  I'm starting to specialize in:</p>
     <ul> 
-      <li>Mobile Programming with React-Native and Flutter</li>
-      <li>Back-End Programming with NodsJs and C#</li>
+      <li> Encryption Scripts </li>
+      <li> Mobile Programming with React-Native and Flutter </li>
     </ul>
   </h6>
 </div>
