@@ -4,7 +4,11 @@
 </div>
 
 <hr/>
-  
+  <div align="center">
+  <a href="https://github.com/pauloricardorc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
  <hr/>
   
 <div style="display: inline_block">
@@ -55,8 +59,12 @@
 </div>
   
  <hr/>
-  
-<h3>
+<h2>
+  GitHub Stats 🚀
+</h2>
+<div style="display: flex; justify-content: center; align-items: center;" align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloricardorc&layout=compact&langs_count=7&theme=github_dark" align="center" />
+</div>
   
 <hr/>
   
