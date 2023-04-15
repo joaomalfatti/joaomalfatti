@@ -1,6 +1,6 @@
 <div align="justify">
   <h3> Hi ✌️, I'm João Elias.</h3>
-  <h6> Graduado em Análise e Desenvolvimento de Sistemas pela UNIRON/RO, tenho três pós-graduções sendo elas: Cybersegurança e Gestão de Riscos, Redes Estruturadas de Computadores e Segurança da Informação. Atualmente sou professor substituto no Instituto Federal de Rondônia - IFRO, leciono as aulas de Redes de Computadores I e II, Segurança da Informação e Interação Humano Computador.</h6>
+  <h6> Graduated in Systems Analysis and Development from UNIRON/ RO, I have three postgraduates: Cybersecurity and Risk Management, Structured Computer Networks and Information Security. I am currently a substitute professor at the Federal Institute of Rondônia - IFRO, I teach classes in Computer Networks I and II, Information Security and Human Computer Interaction.</h6>
 </div>
 
 <hr/>
@@ -28,8 +28,6 @@
 <div>
   <h3> Currently Working :computer: </h3>
   <h6> 
-    <p> My role is currently, Information and Communication Technology Advisor for the State of Rondônia at the State Superintendence of Information and Communication Technology – SETIC.</p>
-    <p> Working with administrative processes of my coordination and helping the sectors.</p> 
     <p>  I'm starting to specialize in:</p>
     <ul> 
       <li>Mobile Programming with React-Native and Flutter</li>
