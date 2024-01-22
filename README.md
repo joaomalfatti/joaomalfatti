@@ -2,14 +2,6 @@
   <h3> Hi ✌️, I'm João Elias.</h3>
   <h6> Graduated in Systems Analysis and Development from UNIRON/ RO, I have three postgraduates: Cybersecurity and Risk Management, Structured Computer Networks and Information Security. I am currently a substitute professor at the Federal Institute of Rondônia - IFRO, I teach classes in Computer Networks I and II, Information Security and Human Computer Interaction.</h6>
 </div>
-
-<hr/>
-  <div align="center">
-  <a href="https://github.com/pauloricardorc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
- <hr/>
   
 <div style="display: inline_block">
   <h3> Skill's 🖥️ </h3>
