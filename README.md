@@ -1,6 +1,6 @@
 <div align="justify">
   <h3> Hi ✌️, I'm João Elias.</h3>
-  <h6> Graduated in Systems Analysis and Development from UNIRON/ RO, I have three postgraduates: Cybersecurity and Risk Management, Structured Computer Networks and Information Security. I am currently a substitute professor at the Federal Institute of Rondônia - IFRO, I teach classes in Computer Networks I and II, Information Security and Human Computer Interaction.</h6>
+  <h6> Graduated in Systems Analysis and Development from UNIRON/ RO, I have three postgraduates: Cybersecurity and Risk Management, Structured Computer Networks and Information Security.</h6>
 </div>
   
 <div style="display: inline_block">
@@ -19,8 +19,7 @@
   <h6> 
     <p>  I'm starting to specialize in:</p>
     <ul> 
-      <li> Encryption Scripts </li>
-      <li> Mobile Programming with React-Native and Flutter </li>
+      <li> Mobile Programming with React-Native </li>
     </ul>
   </h6>
 </div>
@@ -29,8 +28,9 @@
   
 <div>
   <h3> Certified 📃</h3> 
-    <p> Scrum Foundation Professional Certificate - SFPC™</p>
-    <p> Certified in Fundamentals of the General Data Protection Law - GDPR™ </p>
+    <li>  Lato Sensu Postgraduate in Risk Management and Cybersecurity. </li>
+   <li> Lato Sensu Postgraduate in Structured Computer Networks. </li>
+    <li> Lato Sensu Postgraduate Degree in Information Security. </li>
 </div>
   
  <hr />
@@ -43,13 +43,6 @@
 </div>
   
  <hr/>
-<h2>
-  GitHub Stats 🚀
-</h2>
-<div style="display: flex; justify-content: center; align-items: center;" align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&langs_count=7&theme=github_dark" align="center" />
-</div>
-  
-<hr/>
+
   
   
