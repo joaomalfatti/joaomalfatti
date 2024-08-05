@@ -1,6 +1,6 @@
 <div align="justify">
   <h3> Hi ✌️, I'm João Elias.</h3>
-  <h6> Graduated in Systems Analysis and Development from UNIRON/ RO, I have three postgraduates: Cybersecurity and Risk Management, Structured Computer Networks and Information Security.</h6>
+  <h6> I hold a degree in Systems Analysis and Development from UNIRON/RO and have three post-graduate specializations: Cybersecurity and Risk Management, Structured Computer Networks, and Information Security. I am currently transitioning into Development. I am studying React Native and have several projects in mind to implement..</h6>
 </div>
   
 <div style="display: inline_block">
@@ -9,6 +9,7 @@
   <img align="center" alt="joao-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100" align="center" />
+  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="50" align="center"/>
 
   </div>
   
