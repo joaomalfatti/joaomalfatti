@@ -1,6 +1,6 @@
 <div align="justify">
   <h3> Hi ✌️, I'm João Elias.</h3>
-  <h6> Sou um entusiasta da tecnologia com experiência em suporte técnico e uma paixão crescente por programação. Atualmente estou em transição de carreira e buscando oportunidades para aplicar minhas habilidades de desenvolvimento em projetos desafiadores e inovadores. Busco sempre aprender coisas novas.</h6>
+  <h6>  I am a technology enthusiast with experience in technical support and a growing passion for programming. Currently, I am transitioning my career and pursuing a postgraduate degree in Software Engineering at PUC Minas. I am seeking opportunities to apply my development skills in challenging and innovative projects, and I am always eager to learn new things.</h6>
 </div>
 
   <hr />
