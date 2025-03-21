@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="Software Developer">
+  <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="Software Developer" style="max-width: 100%; height: auto;">
 </div>
 
 # 🚀 Olá, eu sou João Malfatti | Back-End Developer Jr
