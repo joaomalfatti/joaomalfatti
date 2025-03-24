@@ -18,17 +18,22 @@ Aqui estão algumas estatísticas que mostram meu progresso e áreas de foco:
 </p>
 
 ## Minhas Habilidades
-
+![⚙️ Em Construção](https://img.shields.io/badge/Status-⚙️%20Em%20Construção-orange?style=for-the-badge)
+<!-- 
 - **Linguagens:** C# (Intermediário), Node.js (Intermediário)
 - **Frameworks & Tecnologias:** .NET (Intermediário), Express.js (Básico)
 - **Banco de dados:** SQLite (Intermediário), MySQL (Básico)
 - **Ferramentas:** GitHub (Avançado), Git (Intermediário)
+
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,nodejs,dotnet,expressjs,sqlite,mysql,github" alt="Minhas Habilidades"/>
   </a>
 </p>
+-->
+
+
 
 ## Projetos em Destaque
 
