@@ -4,9 +4,9 @@
 
 ## Sobre Mim
 
-Olá, sou **João Malfatti**, um **Back-End Developer Jr** com foco em **C#** e **.NET**. Após uma sólida experiência em **Suporte Técnico**, desenvolvi uma forte habilidade em **resolução de problemas** e **comunicação eficaz**. Atualmente, estou em transição para o desenvolvimento de software, onde busco aplicar minha paixão por aprender e resolver desafios técnicos.
+Olá, sou **João Malfatti**, um **Back-End Developer Jr** com foco em **Node.Js**. Após uma sólida experiência em **Suporte Técnico**, desenvolvi uma forte habilidade em **resolução de problemas** e **comunicação eficaz**. Atualmente, estou em transição para o desenvolvimento de software, onde busco aplicar minha paixão por aprender e resolver desafios técnicos.
 
-Meu objetivo é aplicar minhas habilidades em **C#**, **.NET** e **Node.js** para construir soluções escaláveis e eficientes, trabalhando de forma colaborativa em projetos de desenvolvimento back-end. Estou sempre em busca de novos aprendizados e pronto para enfrentar desafios técnicos que promovam meu crescimento.
+Meu objetivo é aplicar minhas habilidades em  **Node.js** para construir soluções escaláveis e eficientes, trabalhando de forma colaborativa em projetos de desenvolvimento back-end. Estou sempre em busca de novos aprendizados e pronto para enfrentar desafios técnicos que promovam meu crescimento.
 
 ## Estatísticas de GitHub
 
@@ -19,19 +19,19 @@ Aqui estão algumas estatísticas que mostram meu progresso e áreas de foco:
 
 ## Minhas Habilidades
 ![⚙️ Em Construção](https://img.shields.io/badge/Status-⚙️%20Em%20Construção-orange?style=for-the-badge)
-<!-- 
-- **Linguagens:** C# (Intermediário), Node.js (Intermediário)
-- **Frameworks & Tecnologias:** .NET (Intermediário), Express.js (Básico)
-- **Banco de dados:** SQLite (Intermediário), MySQL (Básico)
-- **Ferramentas:** GitHub (Avançado), Git (Intermediário)
+
+- **Linguagens:** Node.js (Intermediário)
+- **Frameworks & Tecnologias:**  Express.js (Intermediário)
+- **Banco de dados:** PostgreSQL (Intermediário), MySQL (Básico)
+- **Ferramentas:** GitHub (Avançado), Git (Avançado)
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,nodejs,dotnet,expressjs,sqlite,mysql,github" alt="Minhas Habilidades"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mysql,github" alt="Minhas Habilidades"/>
   </a>
 </p>
--->
+
 
 
 
@@ -39,6 +39,8 @@ Aqui estão algumas estatísticas que mostram meu progresso e áreas de foco:
 
 <div style="text-align: justify;">
   Estou atualizando meu portfólio com foco no aprimoramento contínuo e na aplicação prática. Em breve, iniciarei e concluirei um projeto técnico do início ao fim, com o objetivo de demonstrar minha capacidade de resolver desafios complexos e entregar soluções robustas e eficientes.
+
+Atualmente estou com esse projeto em destaque: https://github.com/joaomalfatti/ERP_vehicleMainteance
 </div>
 
 ## Soft Skills
