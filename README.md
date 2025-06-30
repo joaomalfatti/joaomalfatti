@@ -13,8 +13,8 @@ Meu objetivo é aplicar minhas habilidades em  **Python** para construir soluç�
 Aqui estão algumas estatísticas que mostram meu progresso e áreas de foco:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&layout=compact&theme=dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomalfatti&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaomalfatti&show_icons=true&theme=radical&hide_progress=true" width="49%">
 </p>
 
 ## 🧰 Tecnologias que estou estudando:
